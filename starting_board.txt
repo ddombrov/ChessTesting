@@ -1,0 +1,14 @@
+W
+RNBQKBNR
+PPPPPPPP
+........
+........
+........
+........
+pppppppp
+rnbqkbnr
+0
+60000
+0
+-
+KQkq
